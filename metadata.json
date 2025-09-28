@@ -1,0 +1,8 @@
+{
+  "name": "Malayalam Voice Transaction Logger",
+  "description": "A prototype application that allows users to log financial transactions into a spreadsheet using Malayalam speech input, powered by the Gemini API for natural language processing.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
